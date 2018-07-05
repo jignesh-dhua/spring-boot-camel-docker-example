@@ -1,0 +1,1 @@
+# spring-boot-camel-docker-example
